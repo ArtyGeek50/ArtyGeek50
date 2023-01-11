@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alan Miles ... @ArtyGeek50.
 - 👀 I’m interested in automation and integration in the broadest possible way.
-- 🌱 I’m currently learning .Net 6 Blazor.
+- 🌱 I’m currently learning .Net 7 Blazor.
 - 💞️ I’m looking to collaborate on ... nothing at present, but maybe in the future.
 - 📫 How to reach me ... alan@amba.nz, +64 27 220 9745.
 
